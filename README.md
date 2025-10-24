@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-# 👋 Olá, eu sou o [Cauã Thiago](https://cauathiago.netlify.app/)!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Cauã+Thiago!;Tenho+20+anos,+sou+de+Recife,+PE;Desenvolvedor+Back-end+em+formação;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**,  
 apaixonado por criar sistemas eficientes, seguros e bem estruturados.  
