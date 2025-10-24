@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9b5de5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Cauã+Thiago!;Tenho+20+anos,+sou+de+Recife,+PE;Desenvolvedor+Back-end+em+formação;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b5de5&size=32&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Cauã+Thiago!;Tenho+20+anos,+sou+de+Recife,+PE;Desenvolvedor+Back-end+em+formação;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 Sou **Desenvolvedor Back-end** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**,  
 apaixonado por criar sistemas eficientes, seguros e bem estruturados.  
@@ -11,7 +11,7 @@ buscando sempre escrever código limpo e aplicar boas práticas de arquitetura.
 
 ## ⚙️ Tecnologias e Ferramentas
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computador">
 
 ### 🧠 Foco Atual — Back-end
 
@@ -22,11 +22,10 @@ buscando sempre escrever código limpo e aplicar boas práticas de arquitetura.
 
 ### 💻 Conhecimentos em Front-end
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧰 Ferramentas do Dia a Dia
 
@@ -50,16 +49,14 @@ Mais projetos em breve 🚀
 
 <div align="center">
 
-  <a href="https://github.com/cauathiagoo">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cauathiagoo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=cauathiago&theme=tokyonight&hide_border=true&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
   </a>
-  
-  <a href="https://github.com/cauathiagoo">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauathiagoo&layout=compact&langs_count=6&theme=react&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <a href="https://github.com/cauathiago">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauathiago&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
   </a>
 
 </div>
-
 ---
 
 ## 📬 Contatos
@@ -72,4 +69,4 @@ Mais projetos em breve 🚀
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9b5de5&height=120&section=footer"/>
