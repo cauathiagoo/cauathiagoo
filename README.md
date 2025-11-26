@@ -43,13 +43,16 @@ Veja meus projetos completos clicando no botão abaixo:
       src="https://img.shields.io/badge/Portfólio-Visite_🚀-gradient?style=for-the-badge&logo=&logoColor=white&colorA=9b5de5&colorB=4cc9f0" 
       alt="Portfólio"/>
   </a>
-</div>
+  </div>
 
 
 
 ## 📚 Projetos em Destaque
 
+🔹 [api-pedidos-fastapi](https://github.com/cauathiagoo/api-pedidos-fastapi) — API completa utilizando FastAPI, JWT Authentication, SQLAlchemy, Pydantic e SQLite.
+
 🔹 [OO-SABOR-EXPRESS](https://github.com/cauathiagoo/OO-SABOR-EXPRESS) — Sistema de pedidos com conceitos de orientação a objetos.  
+
 🔹 [OO-SABOR-EXPRESS2](https://github.com/cauathiagoo/OO-SABOR-EXPRESS2) — Versão aprimorada com melhorias de estrutura e lógica.  
 
 Mais projetos em breve 🚀
